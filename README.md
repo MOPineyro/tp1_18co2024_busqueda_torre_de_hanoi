@@ -105,8 +105,3 @@ Se analizaron dos métodos de búsqueda:
 - Archivo de texto Word con las respuestas
 - Archivos con el código implementado
 - Notebook con el contenido y la solución
-
-## Notas adicionales
-
-- Se puede proporcionar un enlace a un repositorio público (GitHub o GitLab) con el contenido.
-- No olvidar especificar los autores del TP en el entregable.
